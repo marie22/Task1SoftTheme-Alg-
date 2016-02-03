@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme(Alg)\Task1SoftTheme(Alg)\bin\Debug\Task1SoftTheme(Alg).exe.config
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme(Alg)\Task1SoftTheme(Alg)\bin\Debug\Task1SoftTheme(Alg).exe
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme(Alg)\Task1SoftTheme(Alg)\bin\Debug\Task1SoftTheme(Alg).pdb
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme(Alg)\Task1SoftTheme(Alg)\obj\Debug\Task1SoftTheme(Alg).csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme(Alg)\Task1SoftTheme(Alg)\obj\Debug\Task1SoftTheme(Alg).exe
+c:\users\pc\documents\visual studio 2012\Projects\Task1SoftTheme(Alg)\Task1SoftTheme(Alg)\obj\Debug\Task1SoftTheme(Alg).pdb
